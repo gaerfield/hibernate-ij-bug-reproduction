@@ -1,0 +1,14 @@
+###
+
+POST http://localhost:8080/domain-entity
+Content-Type: application/json;
+
+{
+  "description": "test"
+}
+
+###
+
+GET http://localhost:8080/domain-entity
+
+###
