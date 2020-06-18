@@ -1,0 +1,1 @@
+# hibernate-ij-bug-reproduction
